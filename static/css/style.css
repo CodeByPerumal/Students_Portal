@@ -1,0 +1,13 @@
+body .container{
+    background: red;
+    color: white;
+}
+
+h1{
+    text-align: center;
+
+}
+
+h2{
+    color: yellow;
+}
